@@ -1,0 +1,10 @@
+streamlit>=1.50
+groq
+python-dotenv
+requests
+pandas
+plotly
+matplotlib
+markdown
+yfinance
+supabase
