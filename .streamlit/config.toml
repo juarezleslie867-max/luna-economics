@@ -1,0 +1,18 @@
+   [server]
+   runOnSave = true
+
+   [browser]
+   gatherUsageStats = false
+
+   [theme]
+   base = "light"
+   primaryColor = "#376C89"
+   backgroundColor = "#F7F8F9"
+   secondaryBackgroundColor = "#FFFFFF"
+   textColor = "#0C1E29"
+   font = "Montserrat:https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap"
+   headingFont = "Vidaloka:https://fonts.googleapis.com/css2?family=Vidaloka&display=swap"
+
+   [theme.sidebar]
+   backgroundColor = "#A6C9D8"
+   textColor = "#142F40"
